@@ -1,0 +1,19 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore OneDrive backup files
+*.lnk
+*.tmp~*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
